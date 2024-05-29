@@ -53,6 +53,7 @@
 
 0.0.0.0 open.e.kuaishou.cn
 
+0.0.0.0 p2-yxjz.adkwai.com
 0.0.0.0 var----ad-jx----var.adkwai.com
 0.0.0.0 p3-web.adkwai.com
 0.0.0.0 p3-ad.adkwai.com
@@ -112,6 +113,16 @@
 0.0.0.0 p2-lm.adukwai.com
 0.0.0.0 p1-lm.adukwai.com
 
+0.0.0.0 zizhu.e.qq.com
+0.0.0.0 amstest.e.qq.com
+0.0.0.0 test-read.e.qq.com
+0.0.0.0 pre-race.e.qq.com
+0.0.0.0 tsso.e.qq.com
+0.0.0.0 test1-crm.e.qq.com
+0.0.0.0 bianque.e.qq.com
+0.0.0.0 preview-review.e.qq.com
+0.0.0.0 race.e.qq.com
+0.0.0.0 testcase.e.qq.com
 0.0.0.0 agent-demo.e.qq.com
 0.0.0.0 tadcase.e.qq.com
 0.0.0.0 test-tracking.e.qq.com
@@ -151,6 +162,7 @@
 0.0.0.0 tangram.e.qq.com
 0.0.0.0 test-tangram.e.qq.com
 0.0.0.0 bbs.e.qq.com
+0.0.0.0 dev.e.qq.com
 0.0.0.0 mp.e.qq.com
 0.0.0.0 page.e.qq.com
 0.0.0.0 tools.e.qq.com
@@ -169,6 +181,9 @@
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 cm.e.qq.com
 
+0.0.0.0 caid.gdt.qq.com
+0.0.0.0 tangram-config-test.gdt.qq.com
+0.0.0.0 test-read.gdt.qq.com
 0.0.0.0 rtb.gdt.qq.com
 0.0.0.0 test-v2.gdt.qq.com
 0.0.0.0 test-rpt.gdt.qq.com
@@ -349,6 +364,12 @@
 
 0.0.0.0 api.juliangcili.com
 
+0.0.0.0 tkmax.anythinktech.com
+0.0.0.0 h5-api.anythinktech.com
+0.0.0.0 adx-h.anythinktech.com
+0.0.0.0 da-h.anythinktech.com
+0.0.0.0 api-h.anythinktech.com
+0.0.0.0 tk-h.anythinktech.com
 0.0.0.0 h5.anythinktech.com
 0.0.0.0 adx-bj-req.anythinktech.com
 0.0.0.0 adx-bj.anythinktech.com
